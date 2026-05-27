@@ -1,4 +1,4 @@
-# Mini Project Management System
+# Project Management System
 
 ## Architecture Explanation
 This repository follows a strict Layered Architecture approach implemented via FastAPI (Backend) and Next.js (Frontend).
